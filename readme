@@ -1,0 +1,5 @@
+1) Install dependencies:
+pip install speedtest-cli
+
+2) Run the script:
+python src/main.py
